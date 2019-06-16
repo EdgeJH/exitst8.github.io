@@ -8,6 +8,7 @@ comments: false
     
 <center><a href="http://taylantatli.github.io/Moon"><b>STEVE</b></a> is a Developer playing soccer</center>
 
+<!-- 
 ## Features
 * Minimal, you can focus on your content
 * Responsive
@@ -34,4 +35,4 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[Install Moon](https://github.com/TaylanTatli/Moon){: .btn} -->
