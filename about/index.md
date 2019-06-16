@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-#<center><a href="http://taylantatli.github.io/Moon"><b>STEVE</b></a> is a Developer playing soccer.</center>
+<center><a href="http://taylantatli.github.io/Moon"><b>STEVE</b></a> is a Developer playing soccer.</center>
 
 ## Features
 * Minimal, you can focus on your content
