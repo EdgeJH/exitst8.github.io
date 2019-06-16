@@ -1,6 +1,6 @@
 ---
-layout: post-list
-title: All Posts
-excerpt: "A List of Posts"
+layout: javascript-list
+title: All Javascript
+excerpt: "A List of JavaScripts"
 comments: false
 ---
