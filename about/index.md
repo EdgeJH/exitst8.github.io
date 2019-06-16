@@ -17,10 +17,12 @@ comments: false
 * Oracle/Mysql
 
 
+
 ## Design & Video
 * Photoshop
 * Illustrator
 * Final Cut Pro
+
 
 
 ## Sport
