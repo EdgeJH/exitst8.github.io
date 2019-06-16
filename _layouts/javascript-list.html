@@ -26,13 +26,13 @@ layout: compress
                 cc
                 <div class="post-list">
                     dd
-                    {% for javascript in site.javascript %} 
-                        {% if javascript.project == null %}
+                    {% for post in site.posts %} 
+                        {% if post.javascript %}
                     <ul>
                         ee<li class="wow fadeInLeft" data-wow-duration="1.5s">
-                            <a class="zoombtn" href="{{ site.url }}{{ javascript.url }}">{{ javascript.title }}</a>
-                            <p>{{ javascript.excerpt }}</p>
-                            <a href="{{ site.url }}{{ javascript.url }}" class="btn zoombtn">Read More</a>
+                            <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                            <p>{{ post.excerpt }}</p>
+                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
                         </li>
                     </ul>
                         {% endif %}
