@@ -16,16 +16,20 @@ layout: compress
         <div class="wrapper animated fadeIn">
             <div class="content">
                 <div class="javascript-title">
-                    <h1>{{ page.title }}</h1>aa
+                    aa
+                    <h1>{{ page.title }}</h1>
+                    bb
                     <a class="btn zoombtn" href="{{site.url}}">
                         <i class="fa fa-home"></i>
                     </a>
                 </div>
+                cc
                 <div class="javascript-list">
+                    dd
                     {% for javascript in site.javascript %} 
                         {% if javascript.project == null %}
                     <ul>
-                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                        ee<li class="wow fadeInLeft" data-wow-duration="1.5s">
                             <a class="zoombtn" href="{{ site.url }}{{ javascript.url }}">{{ javascript.title }}</a>
                             <p>{{ javascript.excerpt }}</p>
                             <a href="{{ site.url }}{{ javascript.url }}" class="btn zoombtn">Read More</a>
