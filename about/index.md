@@ -8,6 +8,28 @@ comments: false
     
 <center><a href="http://taylantatli.github.io/Moon"><b>STEVE</b></a> is a Developer playing soccer</center>
 
+## IT
+* Java
+    - Servlet / JSP / FrameWork / JDBC
+    - Struts / Spring / Mybatis / Ajax
+* JavaScript
+* HTML/CSS
+* Oracle/Mysql
+
+
+## Design & Video
+* Photoshop
+* Illustrator
+* Final Cut Pro
+
+
+## Sport
+* Soccer
+* Futsal
+* Coaching for adults and children
+
+
+
 <!-- 
 ## Features
 * Minimal, you can focus on your content
