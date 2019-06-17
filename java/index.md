@@ -2,7 +2,7 @@
 layout: java
 title: All ja
 excerpt: "A List of Projects"
-permalink: mypageurl.html
+permalink: java.html
 comments: false
 ---
 
