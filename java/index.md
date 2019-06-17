@@ -1,6 +1,6 @@
 ---
 layout: java
-title: All Javas
-excerpt: "A List of Javas"
+title: All Java
+excerpt: "A List of Java"
 comments: false
 ---
