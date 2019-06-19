@@ -17,7 +17,7 @@ layout: compress
             <div class="content">
                 <div class="post-title {% if page.feature %} feature {% endif %}">
                     <h1>{{ page.title }}</h1>
-                    <h4>{{ page.date | date_to_string }}</h4>post.html1
+                    <h4>{{ page.date | date_to_string }}</h4>
                     {% if site.reading_time %}
                     <p class="reading-time">
                       <i class="fa fa-clock-o"></i>
@@ -25,11 +25,10 @@ layout: compress
                     </p><!-- /.entry-reading-time -->
                     {% endif %}
                     {% if page.project %}
-                    post.html
                     <a class="btn zoombtn" href="{{site.url}}/projects/">
                     {% else %}
                     <a class="btn zoombtn" href="{{site.url}}/posts/">
-                    {% endif %}post.html2
+                    {% endif %}
                         <i class="fa fa-chevron-left"></i>
                     </a>
                 </div>
